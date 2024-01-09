@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ivan",
 	"description": "Para DPL",
-	"keywords": [ "dpl", "ivan", "jesus" ],
+	"keywords": [ "dpl", "freecodecamp", "jesus" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
